@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "github.copilot",
+        "github.copilot-chat",
+        "shd101wyy.markdown-preview-enhanced",
+        "ms-vscode.powershell",
+        "ms-python.python",
+        "fwcd.kotlin",
+        "mathiasfrohlich.kotlin",
+        "esafirm.kotlin-formatter"
+    ]
+}
