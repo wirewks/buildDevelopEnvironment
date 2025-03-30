@@ -7,6 +7,7 @@
         "ms-python.python",
         "fwcd.kotlin",
         "mathiasfrohlich.kotlin",
-        "esafirm.kotlin-formatter"
+        "esafirm.kotlin-formatter",
+        "eamodio.gitlens"
     ]
 }
